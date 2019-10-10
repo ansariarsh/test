@@ -1,0 +1,41 @@
+﻿body {
+}
+.rect{
+    margin-top:100px;
+    background-color:#563d7c;
+    padding-top: 2vh;
+    padding-bottom:2vh;
+}
+h1 {
+    color:white;
+    padding-left: 2vw;
+}
+
+
+h3 {
+    color: silver;
+   
+    padding-top: 3vh;
+}
+h4 {
+    color: #563d7c;
+    padding-top: 3vh;
+}
+.form-control {
+    background-color:silver;
+}
+hr {
+    width:58rem;
+    margin-left:0px;   
+}
+.cost {
+    color:silver;
+}
+.btn-primary{
+    background-color:#563d7c;
+    border-color:#563d7c;
+    margin-top:20px; 
+}
+.hrbtn {
+    width:15%;
+}  
